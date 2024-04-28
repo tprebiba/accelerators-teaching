@@ -27,8 +27,17 @@ Course is split in 5 parts:
 
 - Part III: Single particle dynamics in periodic systems (ring)
     - Transverse dynamics in a ring
-        - Exercise 11: phase space of a ring
-        - Exercise 12: optics, trace and single particle emittance of the previous case
-        - Exercise 13: stability of the one-turn-map
+        - Exercise 11: phase space in a stable ring
+        - Exercise 12: optics, trace and single particle emittance of the ring
+        - Exercise 13: stability of the ring
         - Exercise 14: transport of Twiss functions
 
+- Part IV: Tracking multiple particles
+    - Transverse dynamics of a beam
+        - Exercise 15: evolution of beam along a ring
+        - Exercise 16: beam with an offset 
+    - Beam emittance
+        - Exercise 17: preservation of the beam emittance
+        - Exercise 18: emittance and phase space area
+
+- Part V: Tracking in the CERN Proton Synchrotron Booster (PSB) with Xsuite
