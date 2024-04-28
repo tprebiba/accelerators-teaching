@@ -177,3 +177,16 @@ def ellipse_points(emittance, beta, alpha, n_points = 100):
     xp = -np.sqrt(emittance/beta)*(alpha*np.cos(thetas)-np.sin(thetas))
     # return them in our usual form
     return np.array([x, xp])
+
+def transport_optics(beta1,alpha1,gamma1, M):
+    '''
+    This function computes the Twiss parameters of a beamline after 
+    the transport of a beamline with Twiss parameters beta1, alpha1, gamma1
+    through a matrix M.
+    '''
+    # compute the new Twiss parameters
+    beta2 = M[0,0]**2*beta1 -2*M[0,0]*M[0,1]*alpha1 + M[0,1]**2*gamma1
+    alpha2 = -M[0,0]*M[1,0]*beta1 + (M[0,0]*M[1,1] + M[0,1]*M[1,0])*alpha1 - M[0,1]*M[1,1]*gamma1
+    gamma2 = M[1,0]**2*beta1 -2*M[1,0]*M[1,1]*alpha1 + M[1,1]**2*gamma1
+    
+    return beta2, alpha2, gamma2
