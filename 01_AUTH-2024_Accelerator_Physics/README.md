@@ -41,3 +41,8 @@ Course is split in 5 parts:
         - Exercise 18: emittance and phase space area
 
 - Part V: Tracking in the CERN Proton Synchrotron Booster (PSB) with Xsuite
+    - 
+        - Exercise 19: load and plot the layout of the PSB
+        - Exercise 20: plot the optics functions
+        - Exercise 21: matching
+        - Exercise 22: tracking
