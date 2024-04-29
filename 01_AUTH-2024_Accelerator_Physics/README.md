@@ -9,18 +9,18 @@ Course is split in 5 parts:
 
 - Part I: Tracking basics
     - Representing particles
-        - Exercise 1: representing a single particle in Python
-        - Exercise 2: representing multiple particles (a beam) in Python
+        - Exercise 1 (guided): representing a single particle in Python
+        - Exercise 2 (guided): representing multiple particles (a beam) in Python
     - Accelerator elements
-        - Exercise 3: transfering particles in a drift space
-        - Exercise 4: focusing particles 
+        - Exercise 3 (guided): transfering particles in a drift space
+        - Exercise 4 (guided): focusing particles 
     - Simple beamlines
-        - Exercise 5: transfer a particle in a beamline
+        - Exercise 5 (guided): transfer a particle in a beamline
 
 - Part II: Single particle dynamics in simple beamlines
     - The FODO cell
         - Exercise 6: tracking in a FODO cell
-        - Exercise 7: x' of the FODO cell (quadrupole kicks)
+        - Exercise 7: x' of the FODO cell
         - Exercise 8: multiple FODO cells
         - Exercise 9: betatron oscillations
         - Exercise 10: stability of the FODO cell
@@ -40,9 +40,9 @@ Course is split in 5 parts:
         - Exercise 17: preservation of the beam emittance
         - Exercise 18: emittance and phase space area
 
-- Part V: Tracking in the CERN Proton Synchrotron Booster (PSB) with Xsuite
-    - 
-        - Exercise 19: load and plot the layout of the PSB
-        - Exercise 20: plot the optics functions
-        - Exercise 21: matching
-        - Exercise 22: tracking
+- Part V: Tracking with Xsuite
+    - The CERN Proton Synchrotron Booster (PSB)
+        - Exercise 19 (guided): load and plot the layout of the PSB
+        - Exercise 20 (guided): plot the optics functions
+        - Exercise 21 (guided): matching
+        - Exercise 22 (guided): tracking
