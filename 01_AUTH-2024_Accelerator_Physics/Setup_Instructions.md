@@ -1,19 +1,9 @@
-# Hands-On Lattice (and Longitudinal) Calculations using Python - Setup Instructions
+# Hands-on lattice calculations for the AUTH 2024 Accelerator Phyiscs course
 ---
 
 During the course we will use **Python3** in a **Jupyter notebook** with [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) and, mostly, the [numpy](https://numpy.org/) and [matplotlib](https://matplotlib.org/) packages. We will explain in the following sections how to install all necessary software on **your laptop**.
-A basic knowledge of Python is assumed. If you are not familiar with Python, you can find a few resources to fill the gap in the following sections.
 
-To get a better idea of the level of the Python knowledge needed for the course you can browse the [primer of the hands-on course](./CAS_Optics_Primer.pdf). Do not worry about the theory for the moment (it will be discussed in details during the school) but focus on the Python syntax and data types (tuples, lists,...).
-
-After [a short introduction](#a-very-short-introduction-to-python), where we provided some useful links to get familiar with Python, we will focus on the [software setup](#software-setup). 
-Finally, in [appendix](#appendix-python-packages) you will find links and cheatsheets for the most common Python packages that will be used during the course.
-
-> **Important:** we kindly ask you to go throw this document **before coming** to CAS, such as to **prepare yourself** (and **your laptop**) for the course. 
-
----
-# A very short introduction to Python
-You can find several nice courses, videos and resources on the internet. Here you have a couple of suggestions you can find on YouTube:
+A basic knowledge of Python is assumed. If you are not familiar with Python, you can find a few resources to fill the gap in the following YouTube videos:
 
 <p align="center">
 <a href=http://www.youtube.com/watch?v=kqtD5dpn9C8><img src="http://img.youtube.com/vi/kqtD5dpn9C8/0.jpg" alt="Python for Beginners - Learn Python in 1 Hour" width="40%"/></a> 
@@ -21,7 +11,8 @@ You can find several nice courses, videos and resources on the internet. Here yo
 <a href=http://www.youtube.com/watch?v=rfscVS0vtbw><img src="http://img.youtube.com/vi/rfscVS0vtbw/0.jpg" alt="Learn Python - Full Course for Beginners" width="40%"/></a>
 </p>
 
-### Test Python on a web page
+---
+# Test Python on a web page
 
 If you are not familiar with Python and you have not it installed on your laptop, you can start playing with simple python snippets on the web. Without installing any special software you can connect, 
 for example, to [jupyterLab](https://gke.mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab),
