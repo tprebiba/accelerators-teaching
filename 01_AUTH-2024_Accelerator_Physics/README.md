@@ -46,3 +46,5 @@ Course is split in 5 parts:
         - Exercise 20 (guided): plot the optics functions
         - Exercise 21 (guided): matching
         - Exercise 22 (guided): tracking
+        - Exercise 23 (guided): reconstruct tune from turn-by-turn data
+        - Exercise 24 (guided): phase space near a resonance
