@@ -47,4 +47,5 @@ Course is split in 5 parts:
         - Exercise 21 (guided): matching
         - Exercise 22 (guided): tracking
         - Exercise 23 (guided): reconstruct tune from turn-by-turn data
-        - Exercise 24 (guided): phase space near a resonance
+        - Exercise 24 (guided): motion near a quadrupolar resonance - beta-beating
+        - Exercise 25 (guided): motion on a quadrupolar resonance - phase space
