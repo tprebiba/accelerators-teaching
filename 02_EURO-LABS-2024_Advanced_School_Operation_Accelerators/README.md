@@ -14,4 +14,5 @@ PSB is used as an example case:
 - Exercise 5 (guided): reconstruct tune from turn-by-turn data
 - Exercise 6 (guided): motion near a quadrupolar resonance - beta-beating
 - Exercise 7 (guided): motion on a quadrupolar resonance - phase space
+- Exercise 8 (guided): transverse painting
 - Chromaticity matching in PSB
